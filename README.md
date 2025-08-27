@@ -1,0 +1,2 @@
+# Ganesh-cloth-store
+seals
